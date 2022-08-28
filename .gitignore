@@ -1,1 +1,5 @@
 .idea
+.gitignore
+The_DO_LIST.iml
+modules.xml
+vcs.xml
